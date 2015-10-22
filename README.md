@@ -1,5 +1,9 @@
 ## content-edit
 
+[![NPM Version][npm-version-image]][npm-url]
+[![NPM Downloads][npm-downloads-image]][npm-url]
+[![MIT License][license-image]][license-url]
+
 tools for content editable elements. Inserting html, removing html, position caret, etc...
 
 Thanks to [tim down](https://github.com/timdown) and his [rangy module](https://github.com/timdown/rangy) as most of the code is based on his work.
