@@ -1,0 +1,27 @@
+{
+  "name": "content-edit",
+  "version": "1.0.0",
+  "description": "tools for content editable elements",
+  "main": "lib/contentEdit.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/content-edit.git"
+  },
+  "keywords": [
+    "content editable",
+    "content-editable",
+    "content-edit",
+    "editable"
+  ],
+  "author": "Steven Iseki",
+  "license": "MIT",
+  "homepage": "https://github.com/StevenIseki/content-edit.git",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha test/test.js",
+    "build": "babel src --out-dir lib"
+  }
+}
