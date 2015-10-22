@@ -1,8 +1,6 @@
 ## content-edit
 
-[![NPM Version][npm-version-image]][npm-url]
-[![NPM Downloads][npm-downloads-image]][npm-url]
-[![MIT License][https://img.shields.io/dub/l/vibe-d.svg]][http://isekivacenz.mit-license.org]
+[![npm version](https://badge.fury.io/js/content-edit.svg)](https://badge.fury.io/js/content-edit)
 
 tools for content editable elements. Inserting html, removing html, position caret, etc...
 
