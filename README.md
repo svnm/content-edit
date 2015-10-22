@@ -21,14 +21,14 @@ make sure you have babel installed globally to compile the `src` directory to th
 
 ## Running Tests server side
 
-** modify test.js for any tests **
+**modify test.js for any tests**
 
     npm install
     npm test
 
 ## Running Tests client side
 
-** modify test.js for any tests **
+**modify test.js for any tests**
 
 make sure you have webpack installed globally
 
