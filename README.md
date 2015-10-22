@@ -32,6 +32,8 @@ make sure you have babel installed globally to compile the `src` directory to th
 
 **modify test.js for any tests**
 
+    npm install
+
 make sure you have webpack installed globally
 
 `npm install webpack -g`
