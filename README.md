@@ -34,12 +34,11 @@ make sure you have webpack installed globally
 
 `npm install webpack -g`
 
-compile the tests.js to a bundle with webpack
+compile test.js to a bundle with webpack
 
 	webpack ./test/test.js ./test/test-bundle.js
 
 open test.html to view the tests in the browser
-
 
 ## License
 
