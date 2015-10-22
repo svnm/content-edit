@@ -2,7 +2,7 @@
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-url]
-[![MIT License][license-image]][license-url]
+[![MIT License][license-image]][https://img.shields.io/dub/l/vibe-d.svg]
 
 tools for content editable elements. Inserting html, removing html, position caret, etc...
 
